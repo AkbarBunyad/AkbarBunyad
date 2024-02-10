@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **ekberbunyadzade44@gmail.com**
 
-- ⚡ Fun fact **An avid reader in dystopian, classics, science & technology. Haven't you read 'The Almanack of Naval Ravikant'? You better give a try**
+- ⚡ Fun fact: **An avid reader in dystopian, classics, science & technology. Haven't you read 'The Almanack of Naval Ravikant'? You better give a try**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
