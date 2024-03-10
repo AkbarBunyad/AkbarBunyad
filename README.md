@@ -3,12 +3,13 @@
 
 - 📫 How to reach me **ekberbunyadzade44@gmail.com**
 
-- ⚡ Fun fact: **An avid reader in dystopian, classics, science & technology. Haven't you read 'The Almanack of Naval Ravikant'? You better give a try**
+- ⚡ Fun fact **An avid reader in dystopian, classics, science & technology. Haven't you read 'The Almanack of Naval Ravikant'? You better give a try**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akbar-bunyadzade-a97468245?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3btpngjuxltrgytoxyxmv3ja%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akbar-bunyadzade-a97468245?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3btpngjuxltrgytoxyxmv3ja%3d%3d" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ekberbunyadzade1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ekberbunyadzade1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/akbar_b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akbar_b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
